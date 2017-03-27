@@ -1,0 +1,5 @@
+/user/6/.base/ramarijm/home/2A/Graphics3D/practical1/extlib/sfml-2.3.2/build/src/SFML/Audio/CMakeFiles/sfml-audio.dir
+/user/6/.base/ramarijm/home/2A/Graphics3D/practical1/extlib/sfml-2.3.2/build/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
+/user/6/.base/ramarijm/home/2A/Graphics3D/practical1/extlib/sfml-2.3.2/build/src/SFML/Network/CMakeFiles/sfml-network.dir
+/user/6/.base/ramarijm/home/2A/Graphics3D/practical1/extlib/sfml-2.3.2/build/src/SFML/System/CMakeFiles/sfml-system.dir
+/user/6/.base/ramarijm/home/2A/Graphics3D/practical1/extlib/sfml-2.3.2/build/src/SFML/Window/CMakeFiles/sfml-window.dir

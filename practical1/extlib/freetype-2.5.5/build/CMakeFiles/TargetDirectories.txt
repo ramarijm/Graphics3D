@@ -1,0 +1,2 @@
+/user/6/.base/ramarijm/home/2A/Graphics3D/practical1/extlib/freetype-2.5.5/build/CMakeFiles/dist.dir
+/user/6/.base/ramarijm/home/2A/Graphics3D/practical1/extlib/freetype-2.5.5/build/CMakeFiles/freetype.dir
